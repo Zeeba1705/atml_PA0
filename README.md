@@ -1,1 +1,28 @@
 # atml_PA0
+This repository contains the code files and report on Assignment 0 for the course Advanced Topics in Machine Learning.
+
+## Repository Structure
+
+```text
+atml_PA0/
+├── README.md
+├── notebooks/
+│   ├── Task1_ResNet.ipynb
+│   ├── Task2_ViT.ipynb
+│   ├── Task3_CLIP.ipynb
+│   └── Task4_VAE.ipynb
+│
+└── report/
+    ├── main.tex
+    ├── references.bib
+    ├── report.pdf
+    ├── neurips_2026.sty
+    └── figures/
+
+Code:
+The four experiments were implemented in Python using PyTorch and were primarily run in Google Colab. Each notebook can be opened individually and executed in order.
+
+Report:
+The report based on the experiments can be found at: report/Report_PA0.pdf
+
+The LaTeX source, bibliography, and figures used to generate the report are also included in the report/ directory.
