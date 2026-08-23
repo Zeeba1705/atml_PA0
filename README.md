@@ -6,18 +6,14 @@ This repository contains the code files and report on Assignment 0 for the cours
 ```text
 atml_PA0/
 ├── README.md
-├── notebooks/
-│   ├── Task1_ResNet.ipynb
-│   ├── Task2_ViT.ipynb
-│   ├── Task3_CLIP.ipynb
-│   └── Task4_VAE.ipynb
-│
+├── notebooks/         
 └── report/
-    ├── main.tex
+    ├── figures/        
+    ├── neurips_2026.tex
     ├── references.bib
-    ├── report.pdf
     ├── neurips_2026.sty
-    └── figures/
+    ├── checklist.tex
+    └── Report_PA0 (1).pdf
 ```
 ### Code:
 The four experiments were implemented in Python using PyTorch and were primarily run in Google Colab. Each notebook can be opened individually and executed in order.
